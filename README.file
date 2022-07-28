@@ -1,0 +1,14 @@
+Angular Project using Material UI
+
+Installations:
+1. Node and Angular should be installed on your system(NPM install -g @angular/cli)
+2.Install Angular Material Package(ng add @angular/material)
+3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+Project:
+In this project I have used Angular material UI for nav bar and for Table design.
+The edit and add icon also were used from angular material , given a time i would have implemented the Pagination,
+sorting, filters etc
+Here i can add list of Pilots and there dob , no.of flying hours and also i can edit the existing data and delete
+Here i have not used any API call its a simple data stored in local browser 
+
